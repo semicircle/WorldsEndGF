@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ClubEngine!</string>
+    <string name="app_name">米兰王朝</string>
+<string name="tab_news_displayname">新闻</string>
+<string name="tab_sched_displayname">赛程</string>
+<string name="tab_others_displayname">图片</string>
+<string name="tab_news_xml_src_url">http://semicircle-test.appspot.com/</string>
+<string name="tab_sched_xml_src_url">http://semicircle-test.appspot.com/Sched</string>
+</resources>

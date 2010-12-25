@@ -1,0 +1,4 @@
+<resources><color name="tab_background_color">#50444444</color>
+<color name="tab_text_color">#FFFFFFFF</color>
+<color name="tab_background_selected_color">#E0440000</color>
+</resources>
